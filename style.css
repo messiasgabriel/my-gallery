@@ -80,6 +80,7 @@ h1, h2, h3, p, span {
 .gallery-container{
     max-width: 970px;
     margin: 0 auto;
+    padding: 2%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     flex-wrap: wrap;
