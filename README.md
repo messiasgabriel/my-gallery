@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href=""  target="_blank">
+    <a href="https://messiasgabriel.github.io/my-gallery/"  target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href=""  target="_blank">
+    <a href="https://github.com/messiasgabriel/my-gallery"  target="_blank">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/my-gallery/main/Screenshot.png)
 
 This is a Challenge from https://devchallenges.io/ 
 I'm learning web development. So I was able to test and improve my skills with this challenge ;)
